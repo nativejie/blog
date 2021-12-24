@@ -8,6 +8,8 @@
 
 [Typescript 装饰器和反射](https://github.com/nativejie/blog/issues/3)
 
+#### Vue学习
+[从源码角度解析Vue Computed原理](https://github.com/nativejie/blog/issues/8)
 
 #### 前端业务实现
 [微信小程序自定义搜索导航栏](https://github.com/nativejie/blog/issues/5)
@@ -18,3 +20,4 @@
 [使用Scrapy爬取掘金热门文章的分析和实现](https://github.com/nativejie/blog/issues/6)
 
 [RabbitMQ入门学习](https://github.com/nativejie/blog/issues/7)
+
